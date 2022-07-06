@@ -42,10 +42,11 @@ h2 {
     background-color: pink;
     color: orangered;
     text-align: center;
+    font-size: 50px;
 }
 
-.font {
-    font-size: 100px;
+.fonti {
+    font-size: 50px;
     text-align: center;
 }
 
@@ -113,4 +114,23 @@ h2 {
 
 .padding {
     padding-right: 40%;
+}
+
+.container {
+    position: relative;
+}
+
+
+.text-block {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.food {
+    font-size: 40px;
+    background-color: rgb(230, 126, 88);
 }
