@@ -53,7 +53,7 @@ h2 {
 .border {
     text-align: center;
     background-color: rgb(244, 129, 88);
-    color: white;
+    color: rgb(15, 2, 2);
     border: 100px 50px;
     font-size: 50px;
 
@@ -150,4 +150,16 @@ h2 {
 .food {
     font-size: 40px;
     background-color: rgb(230, 126, 88);
+}
+
+.para {
+    text-align: center;
+}
+
+.do-it {
+    text-align: center;
+    font-size: 40px;
+    font-style: oblique;
+    color: rgb(126, 17, 17);
+    background-color: black;
 }
